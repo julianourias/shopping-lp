@@ -1,0 +1,12 @@
+.btn-primary {
+    background-color: hsl(0, 0%, 96%) !important; 
+    color: black !important;
+    border-color: black !important;
+    border-radius: 8px !important;
+    border: 1.7px solid black !important;
+    min-width: 120px !important;
+}
+
+.btn-primary:hover {
+    background-color: hsl(0, 0%, 90%) !important; 
+}
