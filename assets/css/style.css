@@ -10,3 +10,7 @@
 .btn-primary:hover {
     background-color: hsl(0, 0%, 90%) !important; 
 }
+
+html {
+    padding-top: 70px;
+}
